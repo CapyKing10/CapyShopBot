@@ -2,7 +2,7 @@
 
 A simple discord.js v14 shop bot
 
-requires (node.js)[https://nodejs.org/en]
+requires [node.js](https://nodejs.org/en)
 
 ## How to install
 
