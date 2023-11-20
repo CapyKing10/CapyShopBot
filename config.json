@@ -1,0 +1,7 @@
+{
+    "token": "the bots token.",
+    "applicationid": "the bots application id",
+    "guildid": "shop serverId",
+    "orderChannelId": "channel id of ticket channel",
+    "statusMessage": "status message"
+}
