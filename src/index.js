@@ -83,6 +83,9 @@ client.once('ready', () => {
                     .addComponents(claim);
               
               const embed = new EmbedBuilder()
+                .setAuthor({
+                name: "CapyKing10",
+                })
                 .setTitle(`**${name}**`)
                 .setDescription("price: " + "`" + price + "`")
                 .setImage(`${image}`)
