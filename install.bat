@@ -1,3 +1,3 @@
 @echo off
-npm i discord.js@latest
+npm install
 pause

@@ -1,7 +1,26 @@
 {
-    "token": "the bots token.",
-    "applicationid": "the bots application id",
-    "guildid": "shop serverId",
-    "orderChannelId": "channel id of ticket channel",
-    "statusMessage": "status message"
+    "token": "insert token",
+    "applicationid": "insert the bots application Id",
+    "guildid": "insert the id of the guild of your shop",
+    "statusMessage": "made by: capyking10",
+    "ticketView": "role id of the role that is allowed to view the ticket",
+    "memberRole": "the role normal members have",
+    "customerRole": "role id of the role for people that have used your shop",
+
+    "color": "#916911",
+    "errorColor": "#ff0000",
+    "logo": "https://cdn.discordapp.com/attachments/1156288108518711366/1156288151640350793/pfp.png?ex=65c272c2&is=65affdc2&hm=a9e1b6f5058223bc44979d0bbe65173548e54cdb212dc891b062cf7216c1218c&",
+    "shopAdd": "🛒 added your item to the shop!",
+    "cart": "🛒 your cart:",
+    "cartWipe": "✅ succesfully wiped your cart!",
+    "noCart": "❌ you dont have items in your cart yet...",
+    "noUserCart": "This user doenst have item in their shopping cart...",
+    "itemEmbedFooter": "React with 🛒 to add to cart or 🗑️ to remove from cart.",
+    "noPermissions": "You don't have permissions to execute this command.",
+    "footer": "Capy Shop Bot",
+    "createTicket": "✅ succesfully created a ticket!",
+    "noFinishOrderPerms": "Only kit deliverers can finish orders...",
+    "viewCart": "view your cart using **/cart**",
+    "addCart": "🛒 succesfully added this item to your cart!",
+    "removeCart": "🛒 succesfully removed this item from your cart!"
 }

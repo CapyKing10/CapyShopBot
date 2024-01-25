@@ -1,4 +1,4 @@
 @echo off
-node src/register-commands.js
+node src/commands.js
 node src/index.js
 pause
